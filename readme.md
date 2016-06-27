@@ -52,7 +52,7 @@ version: 2016-6-27
 
 * 主动性：
 
-  * 我对技术有进一步的学习心。自学了HTML、CSS、JS基础、MIT CS 6.00.01x with Python、Git 基础、Grunt for Livereload、Less 基础、BootStrap 基础、JQuery 基础、PHP 入门、Smarty 入门。正在学习《JavaScript 高级程序设计》。
+  * 我对技术有进一步的学习心。自学了 HTML、CSS、JavaScript 基础、MIT CS 6.00.01x with Python、Git 基础、Less 基础、JQuery 基础、Smarty 基础、BootStrap 基础、Grunt for Livereload、PHP 基础、Angular 基础、Bower 基础。正在学习《JavaScript 高级程序设计》。
 
   * 我不会刻意的区分前后端，对各种语言都有一定兴趣。在为本溪市公安局四项建设网开发前端页面时，主动了解了基本的 ASP IIS 等知识，在用户提出简易计数器的要求之后，因为 CMS 提供的模板并没有为内网提供该功能，主动学习了一点 VB 并使用 txt 做单条数据库完成了该要求。在 ASKDOG 项目中，主动学习 PHP 框架。
 
